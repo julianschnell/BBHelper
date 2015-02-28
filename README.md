@@ -1,4 +1,4 @@
-# BBHelper (currently not working!)
+# BBHelper (needs an update!)
 
 BlindBooking Helper has been my first major project with Python. The project combines web scraping, parsing (with lxml) and Image/Pattern recognition (with OpenCV). Due to the fact that the structure of the scraped webpages have been constantly modified over the last years, the script is currently not running but with a little modification it should work again!
 Furthermore, since this has been my first project, the source code is a bit messy and could be optimized.
