@@ -4,7 +4,7 @@
 BlindBooking Helper has been my first major project with Python. The project combines **web scraping**, **parsing (with lxml)** and **Image/Pattern recognition (with OpenCV)**. Due to the fact that the structure of the scraped webpages have been constantly modified over the last years, the script is currently not running but with a little modification it should work again!
 Furthermore, since this has been my first project, the source code is a bit messy and could be optimized.
 
-* Disclaimer: This script is not for commercial use! According to Germanwings' terms of use, it is not allowed to reproduce or collect data for any commercial purposes!*
+*Disclaimer: This script is not for commercial use! According to Germanwings' terms of use, it is not allowed to reproduce or collect data for any commercial purposes!*
 
 Tasks to optimize/fix are:
 * Finding a faster substitute for the extensive mechanize module, which handles cookies and allows to fill and send website forms but is also quite slow! 
