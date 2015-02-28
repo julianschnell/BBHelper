@@ -16,8 +16,8 @@ Germanwings offers a great BlindBooking/surprise flight program, that enables yo
 
 So, to sum it up, here is the trade-off: you pay very less but you only get to know the destination of your flight after booking it!
 
-BlindBooking Helper allows you to see the destination of the flight before booking! 
-"BlindBooking Helper" has been my first project with Python. 
+With BlindBooking Helper you are able to know the destination of the flight beforehand! 
+
 
 
 #### Workflow
